@@ -2,7 +2,8 @@
 Este projeto foi realizado, durante o curso "Desenvolvedor Moderno" Modulo HTML/CSS,
 da empresa Devsuperior ( Dr. prof. Nélio Alves) segundo as seguintes orientações:
 Criar um projeto HTML/CSS responsivo correspondente ao design a seguir.
-figma: https://www.figma.com/file/r8DuAM5bylR8iiSR984F6u/DSPlayGames.   
+figma: https://www.figma.com/file/r8DuAM5bylR8iiSR984F6u/DSPlayGames.        
+<img width="321" alt="Desafio3_3" src="https://github.com/AyrtonFrugoni/Modulo3-Desafio3/assets/111124974/49cd0280-f100-4101-bfc7-a88430cca44e">        
 Foram analizados, e aceitos como bem executados, os seguintes itens:                                                                    
     1. Estilização do cabeçalho está correta?                                                              
     2. Responsividade do cabeçalho está correta?                                     
